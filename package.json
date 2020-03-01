@@ -15,7 +15,7 @@
   "author": "cuc_ygh",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "browserslist": "^4.8.6",
     "caniuse-lite": "^1.0.30001025",
     "koa": "2.7.0",
